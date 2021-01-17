@@ -1,0 +1,4 @@
+public interface Retailltem
+{
+    public double getRetailPrice();
+}
